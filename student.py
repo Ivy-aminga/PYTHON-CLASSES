@@ -3,6 +3,7 @@
             #  - show_full_name
             #  - year_of_birth
             #  - show_initials
+
 class Student:
     def __init__(self, first_name, last_name, age, country):
         self.first_name = first_name
